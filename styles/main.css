@@ -92,9 +92,9 @@ body {
 }
 
 .loaded .preloader {
-    opacity: 0; /* Opacity ni 0 qilish */
-    pointer-events: none; /* Preloader ni interaktivlikni o'chirish */
-    display: none; /* Preloaderni yopish */
+    opacity: 0;
+    pointer-events: none;
+    display: none;
 }
 /* PRELOADER END */
 

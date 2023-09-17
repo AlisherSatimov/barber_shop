@@ -27,7 +27,7 @@ body {
     z-index: 999;
     animation-name: backgroundOpacity;
     animation-timing-function: linear;
-    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
     animation-duration: 1s;
     animation-delay: 1.5s;
 }
